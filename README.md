@@ -1,4 +1,4 @@
-%%%%% Neutrino Distance Calculator %%%%%
+# Neutrino Distance Calculator
 
 A tool for analyzing gravitational wave skymap data and calculating distance estimates for neutrino events.
 
